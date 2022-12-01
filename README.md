@@ -4,11 +4,17 @@
 - 🌱 Aprendendo laravel, typescript, react dentre outros
 - 📫 Contate-me pelo e-mail: jonathan.madson.martins@gmail.com
 - 😄 Pronouns: ele/dele
+
+
+
 <div align="center">
   <a href="https://github.com/JonathanMart">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonathanMart&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanMart&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
+  
+  ## Tecnologias que uso no meu dia
+  
   <div style="display: inline_block"><br>
   <img align="center" alt="Jonathan-Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jonathan-Css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
