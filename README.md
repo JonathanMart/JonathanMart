@@ -2,7 +2,7 @@
 <div align="center" ><img alt="bem-vindo/a ao meu perfil!" width="100%" src="https://github.com/JonathanMart/JonathanMart/blob/main/assets/header2.png"></div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I%27m+Jonathan;Developer+System+Student;Brazilian+Frontend+Dev;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Meu nome é Caroline, Estudante de Engenharia de Computação, Desenvolvedora Frontend, Amo Power Metal"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I%27m+Jonathan;Developer+System+Student;Brazilian+Full+Stack+Dev;Power+Metal+Lover+%3C3;" alt="Meu nome é Jonathan, Estudante de Engenharia de Computação, Desenvolvedor FUll Stack, Amo Power Metal"></a>
 </div>
 
 <table align="right">
@@ -10,19 +10,25 @@
  <tr><td><a href="https://github.com/JonathanMart/JonathanMart/blob/main/README-pt-br.md">:brazil: Português</a></td></tr>
 </table>
 
-- 🔭 Hoje trabalho com full stack
-- 🌱 Aprendendo laravel, typescript, react dentre outros
-- 📫 Contate-me pelo e-mail: jonathan.madson.martins@gmail.com
-- 😄 Pronouns: ele/dele
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=JonathanMart.visitor-badge.issue.1)
+
+![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=JonathanMart.visitor-badge.issue.1)
 ![Profile views](https://gpvc.arturio.dev/JonathanMart)
 
-<div align="center">
-  <a href="https://github.com/JonathanMart">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonathanMart&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanMart&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+<h2>:octocat: My GitHub Stats</h2>
+
+<div>   
+    <a href="https://badges.strrl.dev"><img alt="github repos" src="https://badges.strrl.dev/repos/JonathanMart?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
+    <a href="https://badges.strrl.dev"><img alt="commits today" src="https://badges.strrl.dev/commits/daily/JonathanMart?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
+    <a href="https://badges.strrl.dev"><img alt="commits this week" src="https://badges.strrl.dev/commits/weekly/JonathanMart?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
+    <a href="https://badges.strrl.dev"><img alt="commits this month" src="https://badges.strrl.dev/commits/monthly/JonathanMart?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
+    <a href="https://badges.strrl.dev"><img alt="all commits" src="https://badges.strrl.dev/commits/all/JonathanMart?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
 </div>
+  <a href="https://github.com/JonathanMart">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonathanMart&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true" alt="my github stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanMart&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages"/>
+</div>
+    
   
   ## Tecnologias que uso no meu dia
   
@@ -49,3 +55,10 @@
   ![Snake animation](https://github.com/JonathanMart/JonathanMart/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=7E3ACECE&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
+    </a>
+</div>
+    <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
+<div align="center" ><img alt="" width="100%" src="https://github.com/Carol42/Carol42/blob/main/assets/footer.png"></div>
