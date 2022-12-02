@@ -1,22 +1,22 @@
 <div id="top"></div>
-<div align="center" ><img alt="bem-vindo/a ao meu perfil!" width="100%" src="https://github.com/Carol42/Carol42/blob/main/assets/header2.png"></div>
+<div align="center" ><img alt="bem-vindo/a ao meu perfil!" width="100%" src="https://github.com/JonathanMart/JonathanMart/blob/main/assets/header2.png"></div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I%27m+Caroline;Computer+Engineering+Student;Brazilian+Frontend+Dev;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Meu nome é Caroline, Estudante de Engenharia de Computação, Desenvolvedora Frontend, Amo Power Metal"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I%27m+Caroline;Computer+Engineering+Student;Brazilian+Frontend+Dev;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Meu nome é Jonathan, Estudante de Engenharia de Computação, Desenvolvedora Frontend, Amo Power Metal"></a>
 </div>
 
 <table align="right">
- <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README.md">:us: English</a></td></tr>
- <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README-pt-br.md">:brazil: Português</a></td></tr>
+ <tr><td><a href="https://github.com/Carol42/JonathanMart/blob/main/README.md">:us: English</a></td></tr>
+ <tr><td><a href="https://github.com/Carol42/JonathanMart/blob/main/README-pt-br.md">:brazil: Português</a></td></tr>
 </table>
 
 
 <h2>:busts_in_silhouette: Onde me encontrar</h2>
 <a href="https://github.com/Carol42">
-    <img alt="Link para o meu GitHub" src="https://img.shields.io/github/followers/Carol42?style=social&label=@Carol42">
+    <img alt="Link para o meu GitHub" src="https://img.shields.io/github/followers/JonathanMart?style=social&label=@Carol42">
 </a>
 <a href="https://codepen.io/Carol42">
-    <img alt="link para o meu CodePen" src="https://img.shields.io/static/v1?label&message=/Carol42&color=000000&style=flat&logo=codepen"  />
+    <img alt="link para o meu CodePen" src="https://img.shields.io/static/v1?label&message=/JonathanMart&color=000000&style=flat&logo=codepen"  />
 </a>
 <a href="https://twitter.com/carol_heloo/">
     <img alt="Link para o meu Twitter" src="https://img.shields.io/twitter/follow/Carol_Heloo?style=social&label=@Carol_Heloo">
