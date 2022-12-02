@@ -22,18 +22,12 @@
 
 
 
-<div>   
-<p align="right"><img src="animation.gif" width="20%"></p>
-  <div style=" font-size: medium; color: #447ff7" align=center></div>
-    <a href="https://badges.strrl.dev"><img  alt="github repos" src="https://badges.strrl.dev/repos/JonathanMart?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>    
-    <a href="https://badges.strrl.dev"><img  alt="commits today" src="https://badges.strrl.dev/commits/daily/JonathanMart?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>    
-    <a href="https://badges.strrl.dev"><img  alt="commits this week" src="https://badges.strrl.dev/commits/weekly/JonathanMart?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>    
-    <a href="https://badges.strrl.dev"><img  alt="commits this month" src="https://badges.strrl.dev/commits/monthly/JonathanMart?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>    
-    <a href="https://badges.strrl.dev"><img  alt="all commits" src="https://badges.strrl.dev/commits/all/JonathanMart?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>    
-</div><br>
+<div style=" display: flex; font-size: medium; color: #447ff7">     
+<img style="margin_bottom: 30px;" align="right" src="animation.gif" width="20%">
+   
 
   <a href="https://github.com/JonathanMart">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JonathanMart&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true" alt="my github stats"/>
+  <img align="center"height="150em" src="https://github-readme-stats.vercel.app/api?username=JonathanMart&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true" alt="my github stats"/><br><br>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanMart&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages"/>
  
 </div>
