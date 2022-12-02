@@ -15,7 +15,7 @@
 
 <div>   
     <a href="https://badges.strrl.dev"><img alt="github repos" src="https://badges.strrl.dev/repos/JonathanMart?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
-    <a href="https://badges.strrl.dev"><img alt="commits today" src="https://badges.strrl.dev/commits/daily/JonathanMart?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
+    <a href="https://badges.strrl.dev"><img width="110em"alt="commits today" src="https://badges.strrl.dev/commits/daily/JonathanMart?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
     <a href="https://badges.strrl.dev"><img alt="commits this week" src="https://badges.strrl.dev/commits/weekly/JonathanMart?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
     <a href="https://badges.strrl.dev"><img alt="commits this month" src="https://badges.strrl.dev/commits/monthly/JonathanMart?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
     <a href="https://badges.strrl.dev"><img alt="all commits" src="https://badges.strrl.dev/commits/all/JonathanMart?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
