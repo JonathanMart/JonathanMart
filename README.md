@@ -1,5 +1,5 @@
 <div id="top"></div>
-<div align="center" ><img alt="welcome to my profile!" width="100%" src="https://github.com/JonathanMart/JonathanMart/blob/main/assets/header2.png"></div>
+<div align="center" ><img alt="welcome to my profile!" width="100%" src="https://github.com/JonathanMart/JonathanMart/blob/main/assets/header.png"></div>
 
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I%27m+Jonathan;Developer+System+Student;Brazilian+Full+Stack+Dev;Power+Metal+Lover+%3C3;" alt="Meu nome é Jonathan, Estudante de Engenharia de Computação, Desenvolvedor FUll Stack, Amo Power Metal"></a>
@@ -10,10 +10,6 @@
  <tr><td><a href="https://github.com/JonathanMart/JonathanMart/blob/main/README-pt-br.md">:brazil: Português</a></td></tr>
 </table>
 
-
-
-![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=JonathanMart.visitor-badge.issue.1)
-![Profile views](https://gpvc.arturio.dev/JonathanMart)
 
 <h2>:octocat: My GitHub Stats</h2>
 
@@ -30,7 +26,7 @@
 </div>
     
   
-  ## Tecnologias que uso no meu dia
+  <h2>:bulb: Languages & Frameworks</h2>
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Jonathan-Html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -41,20 +37,28 @@
   <img align="center" alt="Jonathan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Jonathan-php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" alt="Jonathan-Wp" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">  
-  <img align="center" alt="Jonathan-Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-  <img align="center" alt="Jonathan-VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+  <img align="center" alt="Jonathan-Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">  
   </div>
+  <h2>:hammer_and_wrench: Tools I use</h2>
+  <code><img title="VS Code" alt="visual studio code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
+  <code><img title="Git" alt="git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
+  <code><img title="MS Windows" alt="microsoft windows" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
+  <code><img title="GitHub" alt="github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
   
-  ## Contato
+<h2>:busts_in_silhouette: How to reach me</h2>
   
 <div style="aligin-items: center"> 
  
   <a href = "mailto:jonathan.madson.martins@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jonathan-madson-martins-furtado-b9a1b3142/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/JonathanMart/JonathanMart/blob/output/github-contribution-grid-snake.svg)
- 
+  ![Snake animation](https://github.com/JonathanMart/JonathanMart/blob/output/github-contribution-grid-snake.svg)   
+
+<p align="center">:round_pushpin: Profile visitors</p>
+<div align="center">
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/Carol42/count.svg">
 </div>
+
 <div align="center">
     <a href="https://git.io/typing-svg">
         <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=7E3ACECE&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
