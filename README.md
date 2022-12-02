@@ -8,7 +8,7 @@
 <table align="right">
  <tr><td><a href="https://github.com/JonathanMart/JonathanMart/blob/main/README.md">:us: English</a></td></tr>
  <tr><td><a href="https://github.com/JonathanMart/JonathanMart/blob/main/README-pt-br.md">:brazil: Português</a></td></tr>
-</table>
+</table><br><br><br>
 
 
 <h2>:octocat: My GitHub Stats</h2>
