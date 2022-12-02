@@ -21,8 +21,8 @@
     <a href="https://badges.strrl.dev"><img alt="all commits" src="https://badges.strrl.dev/commits/all/JonathanMart?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
 </div>
   <a href="https://github.com/JonathanMart">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonathanMart&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true" alt="my github stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanMart&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JonathanMart&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true" alt="my github stats"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanMart&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages"/>
 </div>
     
   
