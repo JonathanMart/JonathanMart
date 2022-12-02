@@ -14,11 +14,11 @@
 <h2>:octocat: My GitHub Stats</h2>
 
 <div>   
-    <a href="https://badges.strrl.dev"><img width="90px" alt="github repos" src="https://badges.strrl.dev/repos/JonathanMart?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
-    <a href="https://badges.strrl.dev"><img width="130px" alt="commits today" src="https://badges.strrl.dev/commits/daily/JonathanMart?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
-    <a href="https://badges.strrl.dev"><img width="130px" alt="commits this week" src="https://badges.strrl.dev/commits/weekly/JonathanMart?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
-    <a href="https://badges.strrl.dev"><img width="130px" alt="commits this month" src="https://badges.strrl.dev/commits/monthly/JonathanMart?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
-    <a href="https://badges.strrl.dev"><img width="130px" alt="all commits" src="https://badges.strrl.dev/commits/all/JonathanMart?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
+    <a href="https://badges.strrl.dev"><img  alt="github repos" src="https://badges.strrl.dev/repos/JonathanMart?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>    
+    <a href="https://badges.strrl.dev"><img  alt="commits today" src="https://badges.strrl.dev/commits/daily/JonathanMart?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>    
+    <a href="https://badges.strrl.dev"><img  alt="commits this week" src="https://badges.strrl.dev/commits/weekly/JonathanMart?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>    
+    <a href="https://badges.strrl.dev"><img  alt="commits this month" src="https://badges.strrl.dev/commits/monthly/JonathanMart?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>    
+    <a href="https://badges.strrl.dev"><img  alt="all commits" src="https://badges.strrl.dev/commits/all/JonathanMart?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>    
 </div><br>
   <a href="https://github.com/JonathanMart">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JonathanMart&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true" alt="my github stats"/>
@@ -56,7 +56,7 @@
 
 <p align="center">:round_pushpin: Profile visitors</p>
 <div align="center">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/Carol42/count.svg">
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/JonathanMart/count.svg">
 </div>
 
 <div align="center">
