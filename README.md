@@ -1,5 +1,5 @@
 <div id="top"></div>
-<div align="center" ><img alt="bem-vindo/a ao meu perfil!" width="100%" src="https://github.com/JonathanMart/JonathanMart/blob/main/assets/header2.png"></div>
+<div align="center" ><img alt="welcome to my profile!" width="100%" src="https://github.com/JonathanMart/JonathanMart/blob/main/assets/header2.png"></div>
 
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I%27m+Jonathan;Developer+System+Student;Brazilian+Full+Stack+Dev;Power+Metal+Lover+%3C3;" alt="Meu nome é Jonathan, Estudante de Engenharia de Computação, Desenvolvedor FUll Stack, Amo Power Metal"></a>
